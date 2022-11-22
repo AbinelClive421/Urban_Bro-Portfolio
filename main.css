@@ -1,0 +1,13 @@
+body{
+    background: lightblue;
+    background: linear-gradient(90deg, rgb(131, 197, 209) 0%, rgb(81, 184, 216) 55%);
+}
+h1{
+    font-size: 2em;
+    color: antiquewhite;
+}
+img{
+    width: 360px;
+    height: 360px;
+    margin-left: 300px;
+}
